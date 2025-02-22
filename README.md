@@ -1,8 +1,9 @@
 
 # Sentiment_Analyzer_Project for IBDM Movies Reviews
+This project involves the development of a sentiment analysis tool for IMDb movie reviews, leveraging machine learning (ML) and natural language processing (NLP) techniques. The system is trained and evaluated using a large dataset of **150,000 IMDb movie reviews**, providing a diverse and extensive base for learning and prediction.
 
 # Project Objective:
-To develop a sentiment analysis system that automatically classifies the sentiment of movie reviews from IMDb into positive, negative, or neutral categories. This system will use machine learning algorithms and natural language processing techniques to understand and analyze textual data. The sentiment analysis will provide valuable insights into movie reviews by determining the overall public sentiment towards a movie.
+To develop a sentiment analysis system that automatically classifies the sentiment of movie reviews from IMDb into **positive or negative categories**. This system will use **machine learning algorithms** and **natural language processing techniques** to understand and analyze textual data. The sentiment analysis will provide valuable insights into movie reviews by determining the overall public sentiment towards a movie.
 
 # The project will be structured in the following phases:
 
@@ -31,19 +32,22 @@ To develop a sentiment analysis system that automatically classifies the sentime
 ## Display the sentiment prediction on the interface (positive, negative).
 - Optionally, visualize sentiment trends and distribution across various movies or genres.
 
-## Key Technologies:
-**Data Preprocessing**: Numpy, Pandas
-**Machine Learning**: Scikit-learn
-**NLP Techniques:** NLTK
-**Flask Framework** for building the web interface.
-**Data Visualization** : Matplotlib, Seaborn
+
+# Key Technologies:
+- **Data Preprocessing**: Numpy, Pandas
+- **Machine Learning**: Scikit-learn
+- **NLP Techniques:** NLTK
+- **Flask Framework** for building the web interface.
+- **Data Visualization** : Matplotlib, Seaborn
 
 
 # IMDB Movie review dataset: 
 Link: https://github.com/Abhishek9253/SentimentAnalyzer/tree/main/Dataset
 
+
 # Sentiment_Analyzer_Interface:
 ![Screenshot 2024-10-28 193925](https://github.com/user-attachments/assets/78f6aad4-cea0-4df7-b872-3b99f1fd8497)
+
 
 # Installation
 
